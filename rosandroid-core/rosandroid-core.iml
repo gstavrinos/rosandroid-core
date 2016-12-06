@@ -101,6 +101,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="roscpp-1.10.12" level="project" />
     <orderEntry type="library" exported="" name="apache_xmlrpc_common-0.2.1" level="project" />
     <orderEntry type="library" exported="" name="tf2_msgs-0.5.13" level="project" />
     <orderEntry type="library" exported="" name="dnsjava-2.1.1" level="project" />
@@ -121,6 +122,7 @@
     <orderEntry type="library" exported="" name="com.springsource.org.apache.commons.logging-1.1.1" level="project" />
     <orderEntry type="library" exported="" name="ws-commons-util-1.0.1" level="project" />
     <orderEntry type="library" exported="" name="apache_xmlrpc_server-0.2.1" level="project" />
+    <orderEntry type="library" exported="" name="move_base_msgs-1.11.14" level="project" />
     <orderEntry type="library" exported="" name="netty-3.5.2.Final" level="project" />
     <orderEntry type="library" exported="" name="com.springsource.org.apache.commons.io-1.4.0" level="project" />
     <orderEntry type="library" exported="" name="actionlib_msgs-1.11.9" level="project" />
